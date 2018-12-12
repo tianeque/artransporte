@@ -1382,13 +1382,13 @@ body {
   }
 }
 .cid-rbSnyXFk9g .navbar {
-  background: #ffffff;
+  background: #e4f8ff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rbSnyXFk9g .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #e4f8ff;
 }
 .cid-rbSnyXFk9g a {
   font-style: normal;
@@ -1476,7 +1476,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rbSnyXFk9g .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #e4f8ff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1771,7 +1771,7 @@ body {
   color: #767676 !important;
 }
 .cid-rbSnF8svDS {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/artransporte-1920x1080.png");
 }
 .cid-rbSnF8svDS h1 {
   color: #616161;
